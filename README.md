@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mr-kaspar
 - 👀 I’m interested in science education, evidence-based practices, and programming.
 - 👨‍🏫 I teach Chemistry and AP Biology.
-- 🎲 I sponsor Tabletop Gaming Club and Rock Music Appreciation Club.
+- 🎲 I sponsor Tabletop Gaming Club.
 - ⚡ Fun fact: I'm undefeated at Street Fighter II on the SNES.
 
 <!---
